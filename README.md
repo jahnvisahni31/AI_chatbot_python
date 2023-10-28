@@ -18,8 +18,8 @@ This project is an AI chatbot implemented in Python. The chatbot is designed to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot.git
-   cd ai-chatbot
+   git clone https://github.com/jahnvisahni31/AI_chatbot_python.git
+   cd AI_chatbot_python
 
 ## Usage
 
